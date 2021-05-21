@@ -1,0 +1,14 @@
+{
+  "name": "01-hola-mundo",
+  "version": "1.0.0",
+  "description": "hola mundo!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vero",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
